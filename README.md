@@ -5,10 +5,7 @@
 Feel free to fork and don't forget to give it a Star ⭐️ for better reach!
 
 -------------------------
-Hello, I'm Nihar Shrotri, working as an AI Consultant.
-I'm currently pursuing my PhD in Artificial Intelligence and Machine Learning
-
-Let's connect on LinkedIn for a Chat: https://www.linkedin.com/in/niharshrotri/
+Forked from Nihar Shrotri, working as an AI Consultant, currently pursuing my PhD in Artificial Intelligence and Machine Learning
 -------------------------
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
